@@ -1,0 +1,30 @@
+/* Styles for customizing the CV layout */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    padding: 50px 0;
+}
+
+h1,
+h2,
+h3 {
+    color: #007bff;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+hr {
+    border-top: 1px solid #007bff;
+}
