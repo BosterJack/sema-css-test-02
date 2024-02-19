@@ -26,5 +26,14 @@ ul {
 }
 
 hr {
+    border: 0;
     border-top: 1px solid #007bff;
+    margin: 1rem 0;
+}
+
+.education-divider {
+    height: 1px;
+    width: 100%;
+    background-color: #007bff;
+    margin: 1rem 0;
 }
